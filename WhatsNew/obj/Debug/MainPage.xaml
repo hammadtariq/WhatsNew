@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="WhatsNew.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WhatsNew"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Label="Refresh" Icon="Refresh"></AppBarButton>
+            <AppBarButton Label="Pin" Icon="Pin"></AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Page.TopAppBar>
+
+        <AppBar>
+            <StackPanel Orientation="Horizontal">
+                <AppBarButton Label="Pin" Icon="Pin"/>
+                <AppBarButton Label="Play" Icon="Play" />
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/purple.jpg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+
+</Page>
+

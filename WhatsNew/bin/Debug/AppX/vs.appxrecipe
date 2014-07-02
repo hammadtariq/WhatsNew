@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HAMMAD</Machine>
+    <WindowsUser>hammad</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F49CDAA0FED1481CE73D4119DD5275745719AAE3482CBDF3E0DA80C98A06381C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ea1db81a-da27-4d85-a738-457b6e9dde23_1.0.0.0_neutral__axagrn69p74qm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ea1db81a-da27-4d85-a738-457b6e9dde23_axagrn69p74qm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ea1db81a-da27-4d85-a738-457b6e9dde23</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hammad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T10:06:24.092</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\WhatsNew.exe">
+      <PackagePath>WhatsNew.exe</PackagePath>
+      <Modified>2014-02-06T10:04:56.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\WhatsNew.pdb">
+      <PackagePath>WhatsNew.pdb</PackagePath>
+      <Modified>2014-02-06T10:04:56.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\1.jpg">
+      <PackagePath>1.jpg</PackagePath>
+      <Modified>2014-02-06T09:12:50.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\150x150.jpg">
+      <PackagePath>150x150.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T09:56:33.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\30x30.jpg">
+      <PackagePath>30x30.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T10:02:56.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\851x315-bittersweet-shimmer-solid-color-background.jpg">
+      <PackagePath>851x315-bittersweet-shimmer-solid-color-background.jpg</PackagePath>
+      <Modified>2014-01-23T04:39:52.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\30x30.jpg">
+      <PackagePath>Assets\30x30.jpg</PackagePath>
+      <Modified>2014-02-06T10:04:30.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\clothe.jpg">
+      <PackagePath>Assets\clothe.jpg</PackagePath>
+      <Modified>2014-02-04T21:16:51.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\Food1.jpg">
+      <PackagePath>Assets\Food1.jpg</PackagePath>
+      <Modified>2014-02-04T21:16:51.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\shoe.jpg">
+      <PackagePath>Assets\shoe.jpg</PackagePath>
+      <Modified>2014-02-04T21:16:51.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\White.jpg">
+      <PackagePath>Assets\White.jpg</PackagePath>
+      <Modified>2014-02-04T12:23:34.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\wide.jpg">
+      <PackagePath>Assets\wide.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T10:01:00.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Accessories\gucci\guccibag.JPG">
+      <PackagePath>Images\Accessories\gucci\guccibag.JPG</PackagePath>
+      <Modified>2014-02-04T19:41:21.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Accessories\nike\nikeband.jpg">
+      <PackagePath>Images\Accessories\nike\nikeband.jpg</PackagePath>
+      <Modified>2014-02-04T17:52:28.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Accessories\perfume\calvinklien.jpg">
+      <PackagePath>Images\Accessories\perfume\calvinklien.jpg</PackagePath>
+      <Modified>2014-02-04T19:49:17.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Accessories\rado\rado.jpg">
+      <PackagePath>Images\Accessories\rado\rado.jpg</PackagePath>
+      <Modified>2014-02-04T19:35:21.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Accessories\rayban\rayban.jpg">
+      <PackagePath>Images\Accessories\rayban\rayban.jpg</PackagePath>
+      <Modified>2014-02-04T19:34:58.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Clothes\chenone\chenone.jpg">
+      <PackagePath>Images\Clothes\chenone\chenone.jpg</PackagePath>
+      <Modified>2014-02-04T18:45:07.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Clothes\chenone\chenone2.jpg">
+      <PackagePath>Images\Clothes\chenone\chenone2.jpg</PackagePath>
+      <Modified>2014-02-04T18:48:02.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Clothes\crossroad\crossroad.jpg">
+      <PackagePath>Images\Clothes\crossroad\crossroad.jpg</PackagePath>
+      <Modified>2014-02-04T18:03:58.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Clothes\diner\diner.jpg">
+      <PackagePath>Images\Clothes\diner\diner.jpg</PackagePath>
+      <Modified>2014-02-04T18:53:54.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Clothes\Levis\levis.jpg">
+      <PackagePath>Images\Clothes\Levis\levis.jpg</PackagePath>
+      <Modified>2014-02-04T19:23:41.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Clothes\Levis\levis1.jpg">
+      <PackagePath>Images\Clothes\Levis\levis1.jpg</PackagePath>
+      <Modified>2014-02-04T20:33:22.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FoodnDrink\BBQ\bbq1.jpg">
+      <PackagePath>Images\FoodnDrink\BBQ\bbq1.jpg</PackagePath>
+      <Modified>2014-02-04T17:47:25.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FoodnDrink\Hardees\hardees.jpg">
+      <PackagePath>Images\FoodnDrink\Hardees\hardees.jpg</PackagePath>
+      <Modified>2014-02-04T17:47:33.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FoodnDrink\Hardees\hardees1.jpg">
+      <PackagePath>Images\FoodnDrink\Hardees\hardees1.jpg</PackagePath>
+      <Modified>2014-02-04T20:21:27.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FoodnDrink\KFC\KFC.jpg">
+      <PackagePath>Images\FoodnDrink\KFC\KFC.jpg</PackagePath>
+      <Modified>2014-02-04T11:38:56.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FoodnDrink\KFC\Kfc2.jpg">
+      <PackagePath>Images\FoodnDrink\KFC\Kfc2.jpg</PackagePath>
+      <Modified>2014-02-04T11:38:56.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\Bata\cover.jpg">
+      <PackagePath>Images\FootWear\Bata\cover.jpg</PackagePath>
+      <Modified>2014-02-04T11:47:29.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\Bata\Main.jpg">
+      <PackagePath>Images\FootWear\Bata\Main.jpg</PackagePath>
+      <Modified>2014-02-04T11:47:29.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\Bata\wide.jpg">
+      <PackagePath>Images\FootWear\Bata\wide.jpg</PackagePath>
+      <Modified>2014-02-04T11:47:29.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\Bata\widecover.jpg">
+      <PackagePath>Images\FootWear\Bata\widecover.jpg</PackagePath>
+      <Modified>2014-02-04T11:47:29.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\gucci\gucci1.jpg">
+      <PackagePath>Images\FootWear\gucci\gucci1.jpg</PackagePath>
+      <Modified>2014-02-04T19:14:55.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\Nike\nike.jpg">
+      <PackagePath>Images\FootWear\Nike\nike.jpg</PackagePath>
+      <Modified>2014-02-04T19:19:19.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\puma\puma.jpg">
+      <PackagePath>Images\FootWear\puma\puma.jpg</PackagePath>
+      <Modified>2014-02-04T19:02:43.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\wide.jpg">
+      <PackagePath>wide.jpg</PackagePath>
+      <Modified>2014-02-06T09:59:28.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\win.jpg">
+      <PackagePath>win.jpg</PackagePath>
+      <Modified>2014-02-05T19:03:16.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\access.png">
+      <PackagePath>Assets\access.png</PackagePath>
+      <Modified>2014-02-04T21:19:34.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\karachi.png">
+      <PackagePath>Assets\karachi.png</PackagePath>
+      <Modified>2014-02-04T21:03:48.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\Clothes\Bonanza\Bonanza.png">
+      <PackagePath>Images\Clothes\Bonanza\Bonanza.png</PackagePath>
+      <Modified>2014-02-04T18:29:08.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T17:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T17:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T17:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FoodnDrink\Pizza\Pizza.png">
+      <PackagePath>Images\FoodnDrink\Pizza\Pizza.png</PackagePath>
+      <Modified>2014-02-04T17:47:49.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FootWear\servis\servis.png">
+      <PackagePath>Images\FootWear\servis\servis.png</PackagePath>
+      <Modified>2014-02-04T19:06:11.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\Images\FoodnDrink\M\Mcdonald.gif">
+      <PackagePath>Images\FoodnDrink\M\Mcdonald.gif</PackagePath>
+      <Modified>2014-02-04T17:51:47.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-02-04T11:30:33.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2014-02-04T12:44:02.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2014-02-04T12:29:32.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2014-02-04T21:28:58.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2014-02-04T11:29:27.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hammad\Documents\Visual Studio 2012\Projects\WhatsNew\WhatsNew\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-06T10:06:23.982</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
